@@ -1,0 +1,7 @@
+{
+  "name": "antsChimera",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
